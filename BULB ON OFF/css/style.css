@@ -1,0 +1,29 @@
+.container{
+    background-color:cornflowerblue;
+}
+h1{
+    text-align: center;
+}
+.bulb{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+img{
+    height: 450px;
+}
+button{
+    padding: 7px 42px;
+    margin: 12px 0;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 7px;
+}
+button:hover{
+    background-color:coral;
+    color: white;
+}
